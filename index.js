@@ -1,3 +1,5 @@
-console.error("HALP!")
-console.log("I would be a logger.")
-console.warn("I am warning you")
+var word;
+word = 'bird';
+console.log(word);
+word = 'dog';
+console.log(word);
